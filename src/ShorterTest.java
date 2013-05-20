@@ -25,8 +25,9 @@ public class ShorterTest {
 		}
 	}
 	
-//	@Test
-//	public void test2(){
-//		File file = new File('')
-//	}
+	@Test
+	public void test2(){
+//		File inputFile = new File('file.txt');
+		
+	}
 }
